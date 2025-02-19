@@ -15,7 +15,7 @@ MovieMosaic is an advanced movie recommendation system designed to enhance user 
 ## 📊 Dataset
 
 This project uses the MovieLens 25M dataset from GroupLens:
-🔗 Download MovieLens Dataset
+🔗 Download [MovieLens Dataset](https://grouplens.org/datasets/movielens/25m/)
 
 Dataset files:
 
@@ -29,6 +29,6 @@ Dataset files:
 - System intelligently recommends movies based on genre & user preferences.
 - Future Improvements: Incorporate reinforcement learning, optimize for scalability, and enhance temporal factor modeling.
 
-🎭 Live Demo
+## 🎭 Live Demo
 
-🔗 Try the application: Movie Recommendation System
+🔗 Try the application: [Movie Recommendation System](https://movie-recommendation-system-cse482.streamlit.app/)
