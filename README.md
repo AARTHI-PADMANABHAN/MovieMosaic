@@ -4,6 +4,8 @@
 
 MovieMosaic is an advanced movie recommendation system designed to enhance user experience through content-based, collaborative, and hybrid filtering techniques. Built using Streamlit, this system employs Natural Language Processing (NLP), Matrix Factorization, and Deep Neural Networks to generate highly personalized recommendations.
 
+![](movie.png)
+
 ## 🚀 Features
 
 - Content-Based Filtering: Uses NLP (Word2Vec) for semantic movie similarity.
